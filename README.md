@@ -1,4 +1,4 @@
-ndroid_test_v1.5
+Android_test_v1.5
 Following Requirements are completed
 ## General Requirements
 #### REQUIREMENT 1. 
@@ -51,7 +51,7 @@ List item view should have a note icon if there is note information saved for th
 #### REQUIREMENT 7.
 Users list has to be searchable - local search only; in search mode, there is no pagination; username and note (see Profile section) fields should be used when searching, precise match as well as contains should be used.
 
-#Profile
+# Profile
 #### REQUIREMENT 1.
 Profile info can be obtained from https://api.github.com/users/[username] in JSON format (e.g. https://api.github.com/users/tawk).
 #### REQUIREMENT 2.
